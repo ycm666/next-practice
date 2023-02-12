@@ -1,9 +1,9 @@
 
 import Image from "next/image"
 import Link  from "next/link"
-import { useRouter } from "next/router"
+//import { useRouter } from "next/router"
 const index = ({photo}) => {
-    const router = useRouter();
+    //const router = useRouter();
     //console.log(router)
     //const id = router.query.id
     //console.log(id)
